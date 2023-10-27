@@ -8,3 +8,5 @@ To achieve this broke down the analysis below
 • Evaluating if the Company is utilizing all its resources judicially, including the lead time between the
 requested date and completion date, and employee work schedules.
 • Exploring the potential correlation between customer satisfaction, lead time, and geographic location.
+
+# Note: Refer 'Landscaping Insights.pdf' for final visualizations
